@@ -1,0 +1,20 @@
+Worry,Agitation,Suicidal:0:Anxiety State:1
+Worry,Agitation,Suicidal:0:Bipolar Disorder:1
+Worry,Agitation,Suicidal:0:Dependence:1
+Worry,Agitation,Suicidal:0:Depressive Mental Disorder:1
+Snuffle,Chill,Shortness of Breath:0:Asthma:1
+Snuffle,Chill,Shortness of Breath:0:Bronchitis:1
+Snuffle,Chill,Shortness of Breath:0:Embolism Pulmonary:1
+Snuffle,Chill,Shortness of Breath:0:Emphysema Pulmonary:1
+Snuffle,Chill,Shortness of Breath:0:Influenza:1
+Vomiting,Chest Pain,Hunger:0:Depressive Mental Disorder:1
+Vomiting,Chest Pain,Hunger:0:Embolism Pulmonary:1
+Vomiting,Chest Pain,Hunger:0:Failure Heart:1
+Vomiting,Chest Pain,Hunger:0:Gastroenteritis:1
+Vomiting,Chest Pain,Hunger:0:Hypothyroidism:1
+Lesion,Unsteady Gait,Burning Sensation:0:Cellulitis:1
+Lesion,Unsteady Gait,Burning Sensation:0:Melanoma:1
+Rale,Vertigo,Nausea:0:Bronchitis:1
+Rale,Vertigo,Nausea:0:Hypothyroidism:1
+Rale,Vertigo,Nausea:0:Migraine Disorders:1
+Rale,Vertigo,Nausea:0:Septicemia and Systemic Infection and Sepsis (Invertebrate):1

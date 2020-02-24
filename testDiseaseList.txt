@@ -1,0 +1,39 @@
+Myocardial Infarction
+Neoplasm
+Neoplasm Metastasis
+Neuropathy
+Neutropenia
+Obesity
+Obesity Morbid
+Oral Candidiasis
+Osteomyelitis
+Osteoporosis
+Overload Fluid
+Pancreatitis
+Pancytopenia
+Paranoia
+Parkinson Disease
+Paroxysmal Dyspnea
+Peripheral Vascular Disease
+Personality Disorder
+Pneumocystis Carinii Pneumonia
+Pneumonia
+Pneumonia Aspiration
+Pneumothorax
+Primary Carcinoma of the Liver Cells
+Primary Malignant Neoplasm
+Psychotic disorder
+Pyelonephritis
+Respiratory Failure
+Schizophrenia
+Sickle Cell Anemia
+Spasm Bronchial
+Stenosis Aortic Valve
+Suicide Attempt
+Tachycardia Sinus
+Thrombocytopaenia
+Thrombus
+Tonic-Clonic Epilepsy and Seizues
+Tricuspid Valve Insufficienct
+Ulcer Peptic
+Upper Respiratory Infection

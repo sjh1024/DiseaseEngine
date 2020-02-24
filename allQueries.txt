@@ -1,0 +1,5 @@
+Worry,Agitation,Suicidal
+Snuffle,Chill,Shortness of Breath
+Vomiting,Chest Pain,Hunger
+Lesion,Unsteady Gait,Burning Sensation
+Rale,Vertigo,Nausea
